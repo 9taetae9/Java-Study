@@ -1,0 +1,51 @@
+
+/*
+ * @Test : Denotes that a method is a test method
+ * 
+ * @BeforeEach : Denotes that the annotated method should be executed before
+ * each @Test,
+ * 
+ * @RepeatedTest, @ParameterizedTest or @TestFactory method in the current
+ * class.
+ * 
+ * @AfterEach : Denotes that the annotated method should be executed after
+ * each @Test,
+ * 
+ * @RepeatedTest, @ParameterizedTest or @TestFactory method in the current
+ * class.
+ * 
+ * @BeforeAll : Denotes that the annotated method should be executed before
+ * all @Test, @RepeatedTest,
+ * 
+ * @ParameterizedTest or @TestFactory method in the current class.
+ * 
+ * @AfterAll : Denotes that the annotated method should be executed after
+ * all @Test,
+ * 
+ * @RepeatedTest, @ParameterizedTest or @TestFactory method in the current
+ * class.
+ * 
+ * @ParameteriedTest
+ * 
+ * @RepeatedTest
+ * 
+ * @TestFactory : for dynamic tests
+ * 
+ * @TestMethodOrder : used to configure the test method execution order for the
+ * annotated test class
+ * 
+ * @DisplayName : Declares a custom display name for the test class or test
+ * method.
+ * 
+ * @Tag : used to declare tags for filtering tests, either at the class or
+ * method level
+ * 
+ * @Disabled : used to disable a test class or test method
+ * 
+ * @TimeOut : used to fail a test, test factory, test template or lifecycle
+ * method if its execution exceeds a given duration.
+ * 
+ * @Nested : non-static nested test class. @BeforeAll and @AfterAll methods
+ * cannot be used directly in a @Nested test class unless the "per-class" test
+ * instance life cycle is used.
+ */
