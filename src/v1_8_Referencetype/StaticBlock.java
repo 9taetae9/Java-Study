@@ -1,3 +1,5 @@
+package v1_8_Referencetype;
+
 public class StaticBlock {
     static int data = 1;
     public StaticBlock(){

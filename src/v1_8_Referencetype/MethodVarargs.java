@@ -1,3 +1,5 @@
+package v1_8_Referencetype;
+
 public class MethodVarargs {
     public static void main(String[] args) {
         MethodVarargs varargs = new MethodVarargs();

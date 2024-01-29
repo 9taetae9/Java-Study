@@ -1,3 +1,5 @@
+package v1_8_Referencetype;
+
 public class StaticBlockCheck {
     public static void main(String[] args) {
         StaticBlockCheck check = new StaticBlockCheck();

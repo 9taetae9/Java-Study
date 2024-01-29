@@ -1,3 +1,5 @@
+package v1_15_String;
+
 public class UseStringMethods {
     public static void main(String[] args) {
         UseStringMethods sample = new UseStringMethods();

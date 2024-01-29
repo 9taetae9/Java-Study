@@ -1,3 +1,5 @@
+package v1_15_String;
+
 public class StringNull {
     public static void main(String[] args) {
         StringNull sample = new StringNull();

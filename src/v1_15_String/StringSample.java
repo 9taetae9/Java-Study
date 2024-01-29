@@ -1,4 +1,4 @@
-import java.nio.charset.StandardCharsets;
+package v1_15_String;
 
 public class StringSample {
     public static void main(String[] args) {

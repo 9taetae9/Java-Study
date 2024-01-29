@@ -1,3 +1,5 @@
+package v1_8_Referencetype;
+
 public class MemberDTO {
     public String name;
     public String phone;
